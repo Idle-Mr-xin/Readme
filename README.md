@@ -2,7 +2,8 @@
 Brief introduction for myself.
 <h1 align="center">Hi 👋, I'm Cai Zhenxin</h1>
 <h3 align="center">An ordinary college student who is interested Psychology.</h3>
-<img src="https://counter.seku.su/cmoe?name=czx&theme=r18" /><br>
+<p align="center"> <img src="https://counter.seku.su/cmoe?name=czx&theme=r18" /><br>
+<h3 align="center">Counter</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caizhenxin&label=Profile%20views&color=0e75b6&style=flat" alt="caizhenxin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caizhenxin" alt="caizhenxin" /></a> </p>
